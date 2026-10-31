@@ -4,6 +4,18 @@ Full-stack and AI engineer. I build open-source tools that make coding agents (C
 Cursor) finish what they start, remember what they learn and spend less. More at
 [nirfeinste.in](https://nirfeinste.in).
 
+#### Products
+
+| Product | What it does |
+|---------|--------------|
+| [VidGen Studio](https://vidgen.studio/?utm_source=github&utm_medium=profile&utm_campaign=vidgen) | Describe a story, direct it as a 3D storyboard, then film each scene with AI video models. The 3D tools are free |
+| [KeepFinding](https://keepfind.ing/?utm_source=github&utm_medium=profile&utm_campaign=keepfinding) | Save articles, videos and podcasts now, find them when you have time. Imports your Pocket and Raindrop exports |
+| [Gramfix](https://gramfix.app/?utm_source=github&utm_medium=profile&utm_campaign=gramfix) | Select text in any Mac app, press a shortcut, get it back with the grammar fixed. Uses your own OpenAI key |
+| [MyFeed](https://myfeed.space/?utm_source=github&utm_medium=profile&utm_campaign=myfeed) | Describe what you care about in plain English and get only the news that matters, on the web or by email |
+| [Plainer](https://plainer.app/?utm_source=github&utm_medium=profile&utm_campaign=plainer) | Projects, daily tasks and your calendar in one calm plan, with timeboxing and weekly goals |
+| [Betterloop](https://betterloopai.com/?utm_source=github&utm_medium=profile&utm_campaign=betterloop) | One script tag, then one ranked list of what to fix next on your site |
+| [OpenWorld](https://open-world.gg/?utm_source=github&utm_medium=profile&utm_campaign=openworld) | A 3D browser game you change by describing it ([source](https://github.com/fainir/open-world)) |
+
 #### Open source
 
 | Project | What it does | |
