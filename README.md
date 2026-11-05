@@ -6,15 +6,34 @@ Cursor) finish what they start, remember what they learn and spend less. More at
 
 #### Products
 
-| Product | What it does |
-|---------|--------------|
-| [VidGen Studio](https://vidgen.studio/?utm_source=github&utm_medium=profile&utm_campaign=vidgen) | Describe a story, direct it as a 3D storyboard, then film each scene with AI video models. The 3D tools are free |
-| [KeepFinding](https://keepfind.ing/?utm_source=github&utm_medium=profile&utm_campaign=keepfinding) | Save articles, videos and podcasts now, find them when you have time. Imports your Pocket and Raindrop exports |
-| [Gramfix](https://gramfix.app/?utm_source=github&utm_medium=profile&utm_campaign=gramfix) | Select text in any Mac app, press a shortcut, get it back with the grammar fixed. Uses your own OpenAI key |
-| [MyFeed](https://myfeed.space/?utm_source=github&utm_medium=profile&utm_campaign=myfeed) | Describe what you care about in plain English and get only the news that matters, on the web or by email |
-| [Plainer](https://plainer.app/?utm_source=github&utm_medium=profile&utm_campaign=plainer) | Projects, daily tasks and your calendar in one calm plan, with timeboxing and weekly goals |
-| [Betterloop](https://betterloopai.com/?utm_source=github&utm_medium=profile&utm_campaign=betterloop) | One script tag, then one ranked list of what to fix next on your site |
-| [OpenWorld](https://open-world.gg/?utm_source=github&utm_medium=profile&utm_campaign=openworld) | A 3D browser game you change by describing it ([source](https://github.com/fainir/open-world)) |
+Choose a job, then try the tool. Free and paid parts are described beside each link.
+
+| Product | Start here |
+|---------|------------|
+| [Betterloop](https://betterloopai.com/check?utm_source=github&utm_medium=profile&utm_campaign=betterloop) | Paste a website URL for a free check, with no signup. Ongoing monitoring has Free and Pro plans. |
+| [Plainer](https://plainer.app/demo?example=starter&utm_source=github&utm_medium=profile&utm_campaign=plainer) | Explore a workspace for notes, files and planning. Notes and planning are free; the signed-in assistant has an optional Pro allowance. |
+| [Modurobot](https://modurobot.com/?utm_source=github&utm_medium=profile&utm_campaign=modurobot) | Try a robot in a free 3D simulation, then explore parts and build guides. Parts links may earn me an affiliate commission. |
+| [KeepFinding](https://keepfind.ing/?utm_source=github&utm_medium=profile&utm_campaign=keepfinding) | Save a link or import bookmarks into a free read-later library. Try it in this browser; sign in to sync across devices. |
+| [MyFeed](https://myfeed.space/?utm_source=github&utm_medium=profile&utm_campaign=myfeed) | Read a free topic feed or create one about something you care about. Optional email digests. |
+| [Gramfix](https://gramfix.app/?utm_source=github&utm_medium=profile&utm_campaign=gramfix) | Correct selected text in compatible Mac apps with a shortcut. Apple Silicon; limited included corrections or your own OpenAI key. |
+| [WebSkins](https://chromewebstore.google.com/detail/webskins/fdjggaobnbpmajhobbcedeonbgmolala?utm_source=github&utm_medium=profile&utm_campaign=webskins) | Give websites a different look with an AI-powered Chrome extension. The public Store version requires your own Anthropic key. |
+| [AI Your Work](https://aiyourwork.chat/?utm_source=github&utm_medium=profile&utm_campaign=aiyourwork) | Start a free guided assessment of useful automations for your business, on the website or [Telegram](https://t.me/AIYourWorkBot). |
+| [Human in da Loop](https://www.humanindaloopai.com/self-host.html?utm_source=github&utm_medium=profile&utm_campaign=humanindaloop) | Let an AI agent ask your team for help. Start with the free software's setup guide; hosting and provider costs are your own. Paid worker jobs are not live. |
+| [OpenWorld](https://open-world.gg/?utm_source=github&utm_medium=profile&utm_campaign=openworld) | Play a free 3D browser game and change it with words. AI edits use limited included credit when available, or your own provider-billed key. ([Source](https://github.com/fainir/open-world)) |
+| [VidGen Studio](https://vidgen.studio/?utm_source=github&utm_medium=profile&utm_campaign=vidgen) | Turn a story into a free 3D storyboard, then film scenes with AI. Generated video, images and narration use prepaid credit. |
+
+#### Concept demos
+
+These are concepts to explore, not products available to order.
+
+| Concept | Explore |
+|---------|---------|
+| [Small Living](https://smallliv.ing/?utm_source=github&utm_medium=profile&utm_campaign=smallliving) | A modular electric-camper concept in 3D. |
+| [Nested Blocks](https://nestedblocks.shop/?utm_source=github&utm_medium=profile&utm_campaign=nestedblocks) | A modular-furniture concept that starts with a conversation. |
+
+#### Visual learning
+
+[Hired in 60](https://www.instagram.com/hiredin60/?utm_source=github&utm_medium=profile&utm_campaign=hiredin60): short, visual developer interview-prep lessons on Instagram, also on [TikTok](https://www.tiktok.com/@hiredin60). Those platforms may ask you to sign in.
 
 #### Open source
 
