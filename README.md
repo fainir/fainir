@@ -10,8 +10,8 @@ Choose a job, then try the tool. Free and paid parts are described beside each l
 
 | Product | Start here |
 |---------|------------|
-| [Betterloop](https://betterloopai.com/check?utm_source=github&utm_medium=profile&utm_campaign=betterloop) | Paste a website URL for a free check, with no signup. Ongoing monitoring has Free and Pro plans. |
-| [Plainer](https://plainer.app/demo?example=starter&utm_source=github&utm_medium=profile&utm_campaign=plainer) | Explore a workspace for notes, files and planning. Notes and planning are free; the signed-in assistant has an optional Pro allowance. |
+| [Betterloop](https://betterloopai.com/check?utm_source=github&utm_medium=profile&utm_campaign=betterloop) | Paste a website URL for a free check, with no signup. Ongoing monitoring has [Free and Pro plans](https://betterloopai.com/pricing?utm_source=github&utm_medium=profile&utm_campaign=betterloop). |
+| [Plainer](https://plainer.app/demo?example=starter&utm_source=github&utm_medium=profile&utm_campaign=plainer) | Explore a workspace for notes, files and planning. Notes and planning are free; the signed-in assistant has an [optional Pro allowance](https://plainer.app/contact?utm_source=github&utm_medium=profile&utm_campaign=plainer). |
 | [Modurobot](https://modurobot.com/?utm_source=github&utm_medium=profile&utm_campaign=modurobot) | Try a robot in a free 3D simulation, then explore parts and build guides. Parts links may earn me an affiliate commission. |
 | [KeepFinding](https://keepfind.ing/?utm_source=github&utm_medium=profile&utm_campaign=keepfinding) | Save a link or import bookmarks into a free read-later library. Try it in this browser; sign in to sync across devices. |
 | [MyFeed](https://myfeed.space/?utm_source=github&utm_medium=profile&utm_campaign=myfeed) | Read a free topic feed or create one about something you care about. Optional email digests. |
