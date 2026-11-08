@@ -8,7 +8,16 @@ Cursor) finish what they start, remember what they learn and spend less. More at
 
 **When 150 ms got marked High.** A Betterloop reader ran a check on a fast page and showed me an estimated 150 ms speed improvement ranked High. I changed the ranking and the saved case now comes back Low. [What I changed](https://www.reddit.com/r/SideProject/comments/1xnka9a/comment/19sa3vu65ey2p/) · [Run a free check on your site](https://betterloopai.com/check?utm_source=github&utm_medium=profile&utm_campaign=founder-proof).
 
-**HTTPS works. What about old HTTP links?** [Watch the 30-second Betterloop lesson](https://github.com/fainir/fainir/blob/main/assets/betterloop-https-redirect.mp4) to see a real redirect finding and how to fix it. [Check your own site for free](https://betterloopai.com/check?utm_source=github&utm_medium=video&utm_campaign=https-redirect-short).
+**HTTPS works. What about old HTTP links?** Betterloop found an old HTTP address that still loads on the demo site. [Check your own site for free](https://betterloopai.com/check?utm_source=github&utm_medium=video&utm_campaign=https-redirect-short).
+
+<details>
+<summary>Watch the 30-second HTTPS lesson</summary>
+
+<img src="assets/betterloop-https-redirect.gif" width="330" alt="Betterloop lesson showing an old HTTP address, a live report that flags the missing redirect, and a permanent redirect to the same HTTPS path.">
+
+[Download the MP4](https://github.com/fainir/fainir/blob/main/assets/betterloop-https-redirect.mp4).
+
+</details>
 
 **The same prompt checks, two different results.** I ran the bundled RegressGuard cases twice. The first set of responses passed all three. The second set failed two, including `OK.` where the case expected `ok`. [Run both offline examples](https://github.com/fainir/regressguard?utm_source=github&utm_medium=profile&utm_campaign=founder-proof#quick-start).
 
