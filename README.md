@@ -4,6 +4,19 @@ Full-stack and AI engineer. I build open-source tools that make coding agents (C
 Cursor) finish what they start, remember what they learn and spend less. More at
 [nirfeinste.in](https://nirfeinste.in).
 
+#### Two things I built and tested
+
+**When 150 ms got marked High.** A Betterloop reader ran a check on a fast page and showed me an estimated 150 ms speed improvement ranked High. I changed the ranking and the saved case now comes back Low. [What I changed](https://www.reddit.com/r/SideProject/comments/1xnka9a/comment/19sa3vu65ey2p/) · [Run a free check on your site](https://betterloopai.com/check?utm_source=github&utm_medium=profile&utm_campaign=founder-proof).
+
+**The same prompt checks, two different results.** I ran the bundled RegressGuard cases twice. The first set of responses passed all three. The second set failed two, including `OK.` where the case expected `ok`. [Run both offline examples](https://github.com/fainir/regressguard?utm_source=github&utm_medium=profile&utm_campaign=founder-proof#quick-start).
+
+<details>
+<summary>Watch the RegressGuard terminal demo</summary>
+
+![Two RegressGuard runs against the same three offline cases. The first passes three and exits 0. The second fails two and exits 1.](assets/regressguard-offline.gif)
+
+</details>
+
 #### Products
 
 Choose a job, then try the tool. Free and paid parts are described beside each link.
