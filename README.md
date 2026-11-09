@@ -57,7 +57,7 @@ These are concepts to explore, not products available to order.
 
 #### Visual learning
 
-[Hired in 60](https://www.youtube.com/playlist?list=PLf8lBoNiNd2g&utm_source=github&utm_medium=profile&utm_campaign=hiredin60): start with six short, visual developer interview-prep lessons, then explore the [YouTube channel](https://www.youtube.com/channel/UCr7apjzj6Pubx-X7ManU52g). Also on [Instagram](https://www.instagram.com/hiredin60/?utm_source=github&utm_medium=profile&utm_campaign=hiredin60) and [TikTok](https://www.tiktok.com/@hiredin60); those platforms may ask you to sign in.
+[Hired in 60](https://hiredin60.com/?utm_source=github&utm_medium=profile&utm_campaign=hiredin60-library): free visual interview lessons and playlists. [Start with six lessons](https://www.youtube.com/playlist?list=PLf8lBoNiNd2g&utm_source=github&utm_medium=profile&utm_campaign=hiredin60) · [Free sample and $12 review pack](https://hiredin60.com/shop?utm_source=github&utm_medium=profile&utm_campaign=hiredin60-review-pack). Explore the [YouTube channel](https://www.youtube.com/channel/UCr7apjzj6Pubx-X7ManU52g). Also on [Instagram](https://www.instagram.com/hiredin60/?utm_source=github&utm_medium=profile&utm_campaign=hiredin60) and [TikTok](https://www.tiktok.com/@hiredin60); those platforms may ask you to sign in.
 
 #### Open source
 
